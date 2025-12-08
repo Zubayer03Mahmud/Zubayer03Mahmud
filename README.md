@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Python , Node JS**
+- 🌱 I’m currently learning **Python, **Java , Node JS**
 
 - 👯 I’m looking to collaborate on **github**
 
