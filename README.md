@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi 👋, I'm Zubayer Al-Mahmud<br><br>
-I’m a passionate Full Stack Developer  with a strong foundation in both frontend and backend development. <br>I enjoy creating dynamic, user-centered web applications that combine clean design with powerful functionality.
+## I’m a passionate Full Stack Developer  with a strong foundation in both frontend and backend development. <br>I enjoy creating dynamic, user-centered web applications that combine clean design with powerful functionality.
 
 
 ## 🌐 Socials:
